@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi! My name is Shivesh Pandey 😄
+========================================================================================================================================
 
-<!--
-**shiveshh8/Shiveshh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Bachelor Of Science Information Technology in Mumbai, India.
+<br/>
+💻  Open to work
+<br/>
 
-Here are some ideas to get you started:
+### Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=aws,mysql)](https://skillicons.dev)  
+<br/>
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ashish-mishra-0ba996217/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
